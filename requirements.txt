@@ -1,0 +1,5 @@
+python-dotenv
+twstock
+pandas
+lxml
+mplfinance
